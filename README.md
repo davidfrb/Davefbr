@@ -1,10 +1,5 @@
 <html>
-    <style>
-        body {
-            background-color: green;
-        }
-    </style>
-<body>
+<body background-color="green">
 
 ## Hallo
 </body>
